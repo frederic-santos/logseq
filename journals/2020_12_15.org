@@ -1,3 +1,7 @@
 #+TITLE: Dec 15th, 2020
 
-** 
+** Note.
+** TODO [#A] Plop.
+:PROPERTIES:
+:todo: 1608018847131
+:END:
