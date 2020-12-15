@@ -5,3 +5,9 @@
 :PROPERTIES:
 :todo: 1608018847131
 :END:
+**
+#+BEGIN_SRC R
+x <- 2
+print(x)
+#+END_SRC R
+**
