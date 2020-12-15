@@ -1,3 +1,4 @@
 #+TITLE: cauchy sequence
 
-** A Cauchy sequence $(a_n)$
+** A Cauchy sequence $$(a_n)$$ is a sequence with is eventually $\epsilon$-steady. I.e., for all $$\epsilon > 0$$, there exists a natural number $$N \geq 0$$ such that $$j,k \geq N \Longrightarrow |a_j - a_k| \leq \epsilon$$.
+**
